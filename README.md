@@ -9,6 +9,6 @@ screenshots
 &nbsp;&nbsp;
 
 #Blog
-My blog is here(http://www.cnblogs.com/chars). Welcome to visit!
+My blog is [here](http://www.cnblogs.com/chars). Welcome to visit!
 
 Copyright
